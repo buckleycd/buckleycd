@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @buckleycd (Cliff)
 - 👀 I’m interested in game development and data analysis/processing
-- 🌱 I’m currently learning Unity 3D and Azure
+- 🌱 I’m currently learning Godot game engine and Azure
 
 
 <!---
